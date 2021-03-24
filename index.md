@@ -1106,28 +1106,29 @@ Signed,
 1. Will Greenberg (EFF, signing in personal capacity)
 1. Will Hawkins
 1. Will Hunt (`Half-Shot`)
-1. William D. Jones (`cr1901`)
-1. William Kroes
-1. William Starkey
-1. William Theaker (Former FSF staff member)
-1. Wilson "Chilly" Hightower
-1. Wim Taymans (PipeWire, GStreamer)
-1. Wolthera van Hövell (Krita/KDE)
-1. Xavier Tilley
-1. Xav Paice
-1. Yadav Lamichhane
-1. Yao Li (former FSF Monthly Student Associate Member)
-1. Yaroslav Kargapolov
-1. Yegor Timoshenko (NixOS contributor)
-1. Yorik van Havre
-1. Youngbin Han (Ubuntu Korea Community)
-1. Yuvi Panda (Project Jupyter)
-1. Yvan Sraka
-1. Yvonne Lam
-1. Zac Adam-MacEwen (Arcana Labs)
-1. Zach Klippenstein (aka @zach-klippenstein, Square)
-1. Zach Lipton
-1. Zach van Rijn
-1. Zack Cerza
-1. Zeltzin Rodríguez
-1. Zvi Gilboa
+3. William D. Jones (`cr1901`)
+4. William Kroes
+5. William Lachance (Mozilla)
+6. William Starkey
+7. William Theaker (Former FSF staff member)
+8. Wilson "Chilly" Hightower
+9. Wim Taymans (PipeWire, GStreamer)
+10. Wolthera van Hövell (Krita/KDE)
+11. Xavier Tilley
+12. Xav Paice
+13. Yadav Lamichhane
+14. Yao Li (former FSF Monthly Student Associate Member)
+15. Yaroslav Kargapolov
+16. Yegor Timoshenko (NixOS contributor)
+17. Yorik van Havre
+18. Youngbin Han (Ubuntu Korea Community)
+19. Yuvi Panda (Project Jupyter)
+20. Yvan Sraka
+21. Yvonne Lam
+22. Zac Adam-MacEwen (Arcana Labs)
+23. Zach Klippenstein (aka @zach-klippenstein, Square)
+24. Zach Lipton
+25. Zach van Rijn
+26. Zack Cerza
+27. Zeltzin Rodríguez
+28. Zvi Gilboa
